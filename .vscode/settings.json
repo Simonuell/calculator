@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "junit-jupiter-api-5.11.3.jar",
+        "src/junit-jupiter-api-5.11.3.jar"
+    ]
+}
